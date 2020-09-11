@@ -1,4 +1,4 @@
 # hello-world
-Hello worldllll
+Hello world
 In the editor, write a bit about yourself.
 Hei maailma
